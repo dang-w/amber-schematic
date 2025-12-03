@@ -2,7 +2,7 @@
 
 A warm dark theme inspired by [Faulty Schematics](https://github.com/Ema0/faulty-schematics-theme).
 
-![Example screenshot](/amber-schematic/images/example.png)
+![Example screenshot](/images/example.png)
 
 ## About
 
