@@ -1,0 +1,18 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="128" height="128" fill="#1a1510" />
+
+  <!-- Top section - Cream -->
+  <rect width="128" height="42.67" fill="#e8dfd4" />
+
+  <!-- Middle section - Orange accent -->
+  <rect y="42.67" width="128" height="42.67" fill="#e6915f" />
+
+  <!-- Bottom section - Dark brown (already background) -->
+  <rect y="85.34" width="128" height="42.66" fill="#1a1510" />
+
+  <!-- Optional: Add subtle schematic-style lines for texture -->
+  <line x1="20" y1="21.33" x2="108" y2="21.33" stroke="#c7c3be" stroke-width="1" opacity="0.3" />
+  <line x1="20" y1="64" x2="108" y2="64" stroke="#ffffff" stroke-width="1" opacity="0.3" />
+  <line x1="20" y1="106.67" x2="108" y2="106.67" stroke="#544732" stroke-width="1" opacity="0.3" />
+</svg>

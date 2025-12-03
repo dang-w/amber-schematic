@@ -2,6 +2,8 @@
 
 A warm dark theme inspired by [Faulty Schematics](https://github.com/Ema0/faulty-schematics-theme).
 
+![Example screenshot](/amber-schematic/images/example.png)
+
 ## About
 
 Amber Schematic brings the retro-futurist sci-fi aesthetic of the original Faulty Schematics theme into a comfortable dark mode environment. Featuring warm amber and golden brown tones with strategic vibrant orange accents, this theme evokes the feeling of examining vintage schematics under a warm desk lamp - perfect for late-night coding sessions.
