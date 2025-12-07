@@ -2,7 +2,7 @@
 	"name": "theme-amber-schematic",
 	"displayName": "Amber Schematic",
 	"description": "A warm dark theme inspired by Faulty Schematics - vintage amber tones with vibrant orange accents",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "dang-w",
 	"engines": {
 		"vscode": "^1.5.0"
